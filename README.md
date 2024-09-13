@@ -2,7 +2,7 @@
 
 A port of the default theme from Jetbrains' Fleet IDE for Neovim with Treesitter support.
 
-![Screenshot](https://user-images.githubusercontent.com/17355488/235284483-77920361-b1b7-4c12-8b1a-d81952aeb947.png)
+<img width="2034" alt="Screenshot" src="https://github.com/user-attachments/assets/3b28ede8-a963-4abe-83e4-1fd9975cc5c7">
 
 Includes support for:
 - Tree-sitter
